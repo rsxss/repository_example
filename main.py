@@ -1,4 +1,6 @@
 print('BLACKDRAGON')
 print('BLACKDRAGON2')
 print('BLACKDRAGON3')
+print('BLACKDRAGON4')
+print('BLACKDRAGON99')
 print('BLACKDRAGON5')
